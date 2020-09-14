@@ -19,8 +19,7 @@ features:
   left_side:
   - title: 'Temperature '
     icon: tf-ion-ios-flag
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Receive alerts when a temperature reading is flagged
   - title: Social Distancing Assistance
     icon: tf-ion-ios-body
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
