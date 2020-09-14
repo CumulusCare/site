@@ -21,8 +21,8 @@ features:
     icon: tf-ion-ios-thermometer-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
-  - title: Elegant Design
-    icon: tf-ion-ios-bell-outline
+  - title: Social Distancing Assistance
+    icon: tf-ion-ios-body-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Easy Pricing
