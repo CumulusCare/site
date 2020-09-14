@@ -38,8 +38,8 @@ features:
     content: Easy to deploy in the classroom environment
   - title: Reporting
     icon: tf-ion-ios-paper
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Easy reporting feature means the right people get the right information
+      when they need it!
 promo:
   enable: true
   image: images/watch.png
