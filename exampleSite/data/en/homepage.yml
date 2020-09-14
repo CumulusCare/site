@@ -38,8 +38,8 @@ features:
     icon: tf-ion-ios-education
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
+  - title: Reporting
+    icon: tf-ion-ios-paper
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
 promo:
