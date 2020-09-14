@@ -18,7 +18,7 @@ features:
   image: "/images/tech.png"
   left_side:
   - title: 'Temperature '
-    icon: tf-ion-ios-thermometer-outline
+    icon: tf-ion-ios-thermometer
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Social Distancing Assistance
