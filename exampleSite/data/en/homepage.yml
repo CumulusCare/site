@@ -42,7 +42,7 @@ features:
       when they need it!
 promo:
   enable: true
-  image: "/images/watch.jpg"
+  image: "/images/clearwatch.png"
   title: Designed by professional , the benefit for creative gigs
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
     deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
