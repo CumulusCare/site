@@ -22,8 +22,8 @@ features:
     content: Receive alerts when a temperature reading is flagged
   - title: Social Distancing Assistance
     icon: tf-ion-ios-body
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: The Cumulus-Care Watch provides feedback when within 6-feet of another
+      watch.
   - title: Contact Tracing
     icon: tf-ion-ios-people
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
