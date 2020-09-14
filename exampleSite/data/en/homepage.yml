@@ -25,8 +25,8 @@ features:
     icon: tf-ion-ios-body-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
+  - title: Contact Tracing
+    icon: tf-ion-ios-walk
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   right_side:
