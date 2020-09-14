@@ -26,8 +26,8 @@ features:
       watch.
   - title: Contact Tracing
     icon: tf-ion-ios-people
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: The Cumulus-Care Watch keeps track of other watches it comes in contact
+      with
   right_side:
   - title: Cloud Based Synchronization
     icon: tf-ion-ios-cloud
