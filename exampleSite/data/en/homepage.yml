@@ -35,7 +35,7 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Made for the Education Environment
-    icon: tf-ion-ios-education
+    icon: tf-ion-ios-book
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Reporting
