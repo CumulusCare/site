@@ -26,7 +26,7 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Contact Tracing
-    icon: tf-ion-ios-walk
+    icon: tf-ion-ios-people
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   right_side:
