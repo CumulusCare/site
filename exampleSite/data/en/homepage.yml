@@ -17,7 +17,7 @@ features:
   title: Our Core Features
   image: "/images/tech.png"
   left_side:
-  - title: Smooth Touch
+  - title: 'Temperature '
     icon: tf-ion-ios-alarm-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
