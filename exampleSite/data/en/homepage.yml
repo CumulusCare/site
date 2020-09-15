@@ -75,7 +75,7 @@ products:
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
-  title: Get Product Updates
+  title: Get More Information or Schedule A Demo
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   placeholder: Your Email Address Here
 testimonial:
