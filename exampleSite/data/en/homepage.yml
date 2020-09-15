@@ -18,7 +18,7 @@ features:
   image: "/images/tech.png"
   left_side:
   - title: 'Temperature '
-    icon: tf-ion-ios-thermometer
+    icon: tf-ion-ios-heart
     content: Receive alerts when a temperature reading is flagged
   - title: Social Distancing Assistance
     icon: tf-ion-ios-body
