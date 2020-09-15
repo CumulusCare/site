@@ -5,7 +5,7 @@ office:
   title: Cumulus-Care
   mobile: "(307) 222-7440"
   email: sales@cumulus-care.com
-  location: Yellowstone, WY USA
+  location: Bozeman, MT USA
   content: ''
 opennig_hour:
   title: Opening Hours
