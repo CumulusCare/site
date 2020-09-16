@@ -9,7 +9,7 @@ banner:
     safe!
   image: "/images/hw.png"
   button:
-    enable: true
+    enable: false
     label: Browse All Products
     link: products
 features:
