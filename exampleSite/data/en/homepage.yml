@@ -42,7 +42,7 @@ features:
       when they need it!
 promo:
   enable: true
-  image: "/images/clearwatch.png"
+  image: "/images/test.gif"
   title: A simple wrist-worn solution!
   content: With the Cumulus-Care watch, there is no need for a daily manual temperature
     reading.  Our patent-pending system takes care of that, at hourly intervals, for
