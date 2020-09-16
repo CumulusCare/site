@@ -78,7 +78,7 @@ subscription:
   title: Get More Information or Schedule A Demo
   content: We are launching full operations soon! Subscribe to keep up to date on
     our latest developments.
-  placeholder: sales@cumulus-care.com
+  placeholder: youremail@anytown.usa
 testimonial:
   enable: false
   title: Watch Review
