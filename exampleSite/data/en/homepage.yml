@@ -76,7 +76,8 @@ subscription:
   enable: true
   bg_image: images/call-to-action.jpg
   title: Get More Information or Schedule A Demo
-  content: We are launching full operations soon!
+  content: We are launching full operations soon! Subscribe to keep up to date on
+    our latest developments.
   placeholder: sales@cumulus-care.com
 testimonial:
   enable: false
