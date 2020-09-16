@@ -1,12 +1,12 @@
 ---
 banner:
   enable: true
-  title: Making Back-To-School Safer With Constant Monitoring
-  content: Our patent-pending technology combines constant temperature measurement,
-    social-distancing alerts, and a cloud-based interface.  You will know when testing
-    is indicated, and more importantly, rapidly see a contact trace report.  Give
-    your students, parents, and faculty assurance that you are making their campus
-    safe!
+  title: 'Making Back-To-School Safer '
+  content: With Constant Monitoring, our patent-pending technology combines constant
+    temperature measurement, social-distancing alerts, and a cloud-based interface.  You
+    will know when testing is indicated, and more importantly, rapidly see a contact
+    trace report.  Give your students, parents, and faculty assurance that you are
+    making their campus safe!
   image: "/images/hw.png"
   button:
     enable: false
