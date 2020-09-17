@@ -15,7 +15,7 @@ banner:
 features:
   enable: true
   title: Our Core Features
-  image: "/images/tech.png"
+  image: "/images/features.png"
   left_side:
   - title: 'Temperature '
     icon: tf-ion-ios-flag
