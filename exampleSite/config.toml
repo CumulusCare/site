@@ -1,5 +1,5 @@
 baseurl = "https://affectionate-clarke-1d79a8.netlify.app/"
-disableLanguages = []
+disableLanguages = [true]
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
@@ -10,12 +10,12 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = "content/french"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
+#[Languages.fr]
+#contentDir = "content/french"
+#copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+#languageCode = "fr-fr"
+#languageName = "Fr"
+#weight = 2
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
