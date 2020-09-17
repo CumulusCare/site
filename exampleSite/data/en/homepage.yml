@@ -74,7 +74,7 @@ products:
   title: Checkout Our All Products
 subscription:
   enable: true
-  bg_image: images/call-to-action.jpg
+  bg_image: images/demoschool.jpg
   title: Get More Information or Schedule A Demo
   content: We are launching full operations soon! Subscribe to keep up to date on
     our latest developments.
