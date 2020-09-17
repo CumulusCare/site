@@ -51,7 +51,7 @@ about_product:
   enable: true
   title: Automate Your Compliance Monitoring
   items:
-  - image: "/images/clearwatch.png"
+  - image: "/images/bwatch.png"
     title: Wrist-Worn Device
     content: The Cumulus-Care Watch provides continuous temperature monitoring.  It
       also gives feedback to the wearer when they are too close to another wearer,
