@@ -60,7 +60,7 @@ about_product:
       enable: false
       label: Check Features
       link: "#"
-  - image: "/images/schoolblue.png"
+  - image: "/images/school_blue.png"
     title: Be in the know regarding your campus population!
     content: Give your staff and students peace of mind.  You will have constant feedback
       on their temperature and social distancing in order to rapidly react to any
