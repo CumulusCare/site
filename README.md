@@ -32,14 +32,23 @@ Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) 
 
 ## Table of Contents
 
-- [Demo](#demo)
-- [Installation](#installation)
-- [Main Features](#main-features)
-- [What's New](#what's-new)
-- [Reporting Issues](#reporting-issues)
-- [Technical Support or Questions](#technical-support-or-questions-(paid))
-- [Licensing](#licensing)
-- [More Hugo Themes](https://themefisher.com/hugo-themes/)
+- [Easy Setup (Hugo + Netlify + Forestry)](#easy-setup-hugo--netlify--forestry)
+    - [What you need !!](#what-you-need-)
+    - [Step 1 : Fork or Clone repository](#step-1--fork-or-clone-repository)
+    - [Step 2 : Add your repository in Forestry](#step-2--add-your-repository-in-forestry)
+    - [Step 3 : Setup and host website with Netlify](#step-3--setup-and-host-website-with-netlify)
+  - [Table of Contents](#table-of-contents)
+  - [Demo](#demo)
+  - [Installation](#installation)
+  - [Main features](#main-features)
+  - [What's New](#whats-new)
+  - [Icons](#icons)
+  - [Reporting Issues](#reporting-issues)
+  - [Technical Support or Questions (Paid)](#technical-support-or-questions-paid)
+  - [Licensing](#licensing)
+  - [Hire Us](#hire-us)
+  - [Premium Themes](#premium-themes)
+  - [Manually deploy to firebase](#manually-deploy-to-firebase)
 
 ## Demo
 
@@ -114,3 +123,21 @@ We are available for Hiring of your next HUGO project. Drop Us a mail [mehedi@th
 | **Agico** | **Biztrox** | **Bexer** |
 | [![Dtox](https://gethugothemes.com/wp-content/uploads/2019/06/hugo-theme-Dtox.jpg)](https://gethugothemes.com/products/dtox-hugo-theme/) | [![Hargo](https://gethugothemes.com/wp-content/uploads/edd/2019/10/Hargo.png)](https://gethugothemes.com/products/hargo/) | [![all](https://gethugothemes.com/wp-content/uploads/2019/12/get-more-hugo-themes.png)](https://gethugothemes.com/shop/) |
 | **Dtox** | **Hargo** | **More Hugo Themes** |
+
+
+## Manually deploy to firebase 
+
+1. clone the project
+
+2. cd /site
+
+3. firebase init
+
+4. choose the host 
+
+5. public folder : `exampleSite/public`
+
+6. cd exampleSite/
+
+7. hugo --gc --themesDir ../.. && firebase deploy
+
