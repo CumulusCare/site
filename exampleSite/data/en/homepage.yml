@@ -42,7 +42,7 @@ features:
       when they need it!
 promo:
   enable: true
-  image: "/images/ccloop.gif"
+  image: "/images/whiteboard.gif"
   title: A simple wrist-worn solution!
   content: With the Cumulus-Care smartwatch, there is no need for a daily manual temperature
     reading.  Our affordable patent-pending system takes care of that, at hourly intervals,
