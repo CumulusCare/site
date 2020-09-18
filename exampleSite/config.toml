@@ -1,4 +1,4 @@
-baseurl = "https://affectionate-clarke-1d79a8.netlify.app/"
+baseurl = "https://cumulus-care.com"
 disableLanguages = [true]
 googleAnalytics = ""
 summarylength = "20"
@@ -10,12 +10,6 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-#[Languages.fr]
-#contentDir = "content/french"
-#copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-#languageCode = "fr-fr"
-#languageName = "Fr"
-#weight = 2
 [[menu.footer]]
 URL = "privacy-policy"
 name = "Privacy Policy"
