@@ -56,5 +56,5 @@ link = "plugins/slick/slick.min.js"
 enable = true
 preloader = ""
 [params.subscription]
-mailchimp_form_action = "http://eepurl.com/hdB9LP"
-mailchimp_form_name = "850aced113ff8deb2b649c3e9"
+mailchimp_form_action = "view-source:https://cumulus-care.us2.list-manage.com/subscribe?u=850aced113ff8deb2b649c3e9&id=1f4432829c"
+mailchimp_form_name = "MERGE0"
